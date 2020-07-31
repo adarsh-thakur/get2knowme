@@ -1,1 +1,1 @@
-## Hey I'm Adarsh this my life's README.
+## Hey I'm Adarsh this is my life's README.

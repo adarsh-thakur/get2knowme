@@ -12,11 +12,11 @@ I'm  Software Developer :sunglasses: || Full-Stack Web Developer :innocent: || B
 I am computer science grad from india, have **1095** days (and counting) of awesome experinece in software development. I am open for a Full time, Part time or Free-Lance work.
 So the  technologies that I know are,
 
-- ![Html](./html.png =40x)
-- ![Css](./css.png =40x)
-- ![Java](./java.png =40x)
-- ![Node](./node.png =40x)
-- ![React](./react.png =40x)
-- ![Angular](./angular.png =40x)
-- ![TypeScript](./ts.png =40x40)
-- ![Bootstrap](./bs.png)
+<img src="./html.png" width="5%">
+<img src="./css.png" width="3%">
+<img src="./java.png" width="6%">
+<img src="./node.png" width="5%">
+<img src="./react.png" width="5%">
+<img src="./angular.png" width="5%">
+<img src="./ts.png" width="5%">
+<img src="./bs.png" width="5%">

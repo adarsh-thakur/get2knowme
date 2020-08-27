@@ -18,5 +18,5 @@ So the  technologies that I know are,
 - ![Node](./node.png =40x)
 - ![React](./react.png =40x)
 - ![Angular](./angular.png =40x)
-- ![TypeScript](./ts.png =40x)
+- ![TypeScript](./ts.png =40x40)
 - ![Bootstrap](./bs.png)
